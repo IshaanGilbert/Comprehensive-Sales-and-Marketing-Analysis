@@ -1,0 +1,101 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Postal Code,Region,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit,Month
+CA-2016-0001,2016-09-26,2016-01-04,Same Day,CUST-001,Customer 001,Corporate,United States,Los Angeles,California,98730,West,PROD-0001,Office Supplies,Art,Product 001,374.87,2,0.06,176.4,2016-09
+CA-2016-0002,2016-02-09,2016-01-03,Standard Class,CUST-002,Customer 002,Home Office,United States,Houston,New York,41580,East,PROD-0002,Furniture,Bookcases,Product 002,313.43,3,0.22,-15.34,2016-02
+CA-2016-0003,2016-05-16,2016-01-04,Standard Class,CUST-003,Customer 003,Corporate,United States,New York,Illinois,53708,West,PROD-0003,Technology,Tables,Product 003,368.08,2,0.25,242.31,2016-05
+CA-2016-0004,2016-09-28,2016-01-05,Standard Class,CUST-004,Customer 004,Home Office,United States,Chicago,California,79961,South,PROD-0004,Technology,Tables,Product 004,793.02,4,0.21,153.24,2016-09
+CA-2016-0005,2016-04-06,2016-01-04,First Class,CUST-005,Customer 005,Corporate,United States,New York,Arizona,88645,South,PROD-0005,Technology,Chairs,Product 005,721.37,10,0.47,48.38,2016-04
+CA-2016-0006,2016-04-25,2016-01-05,Second Class,CUST-006,Customer 006,Home Office,United States,Phoenix,Arizona,74864,West,PROD-0006,Furniture,Tables,Product 006,316.17,10,0.11,186.82,2016-04
+CA-2016-0007,2016-02-09,2016-01-04,Standard Class,CUST-007,Customer 007,Consumer,United States,Chicago,New York,93277,East,PROD-0007,Technology,Phones,Product 007,22.67,6,0.3,44.17,2016-02
+CA-2016-0008,2016-03-06,2016-01-04,First Class,CUST-008,Customer 008,Corporate,United States,Los Angeles,Illinois,12560,South,PROD-0008,Technology,Bookcases,Product 008,76.22,9,0.12,169.97,2016-03
+CA-2016-0009,2016-10-26,2016-01-05,Second Class,CUST-009,Customer 009,Home Office,United States,New York,New York,32854,East,PROD-0009,Technology,Bookcases,Product 009,372.48,6,0.38,107.07,2016-10
+CA-2016-0010,2016-09-22,2016-01-02,Same Day,CUST-010,Customer 010,Corporate,United States,Phoenix,Texas,69310,Central,PROD-0010,Technology,Tables,Product 010,122.13,7,0.25,122.86,2016-09
+CA-2016-0011,2016-07-06,2016-01-05,Second Class,CUST-011,Customer 011,Home Office,United States,Chicago,Texas,79756,West,PROD-0011,Technology,Chairs,Product 011,695.0,3,0.44,269.83,2016-07
+CA-2016-0012,2016-02-06,2016-01-04,Standard Class,CUST-012,Customer 012,Consumer,United States,Los Angeles,New York,60164,East,PROD-0012,Furniture,Tables,Product 012,260.42,6,0.39,179.45,2016-02
+CA-2016-0013,2016-05-03,2016-01-05,Same Day,CUST-013,Customer 013,Consumer,United States,Chicago,California,31952,South,PROD-0013,Office Supplies,Tables,Product 013,953.67,6,0.41,128.03,2016-05
+CA-2016-0014,2016-07-22,2016-01-05,Second Class,CUST-014,Customer 014,Consumer,United States,Houston,Texas,31664,South,PROD-0014,Office Supplies,Binders,Product 014,479.67,7,0.09,2.58,2016-07
+CA-2016-0015,2016-09-06,2016-01-03,Same Day,CUST-015,Customer 015,Consumer,United States,Phoenix,Illinois,34886,East,PROD-0015,Office Supplies,Art,Product 015,487.0,2,0.06,144.69,2016-09
+CA-2016-0016,2016-01-08,2016-01-06,Standard Class,CUST-016,Customer 016,Consumer,United States,Los Angeles,New York,93635,Central,PROD-0016,Office Supplies,Art,Product 016,645.73,10,0.09,140.01,2016-01
+CA-2016-0017,2016-05-03,2016-01-04,Same Day,CUST-017,Customer 017,Corporate,United States,New York,Arizona,82898,South,PROD-0017,Technology,Bookcases,Product 017,309.8,9,0.08,-0.97,2016-05
+CA-2016-0018,2016-09-06,2016-01-05,Same Day,CUST-018,Customer 018,Consumer,United States,Houston,Illinois,41172,Central,PROD-0018,Technology,Bookcases,Product 018,87.68,2,0.33,71.33,2016-09
+CA-2016-0019,2016-07-02,2016-01-02,Standard Class,CUST-019,Customer 019,Home Office,United States,Houston,Texas,79036,West,PROD-0019,Technology,Phones,Product 019,219.7,8,0.33,170.53,2016-07
+CA-2016-0020,2016-03-16,2016-01-06,Standard Class,CUST-020,Customer 020,Home Office,United States,Phoenix,Illinois,58683,Central,PROD-0020,Furniture,Tables,Product 020,845.41,7,0.35,-6.41,2016-03
+CA-2016-0021,2016-10-25,2016-01-03,Standard Class,CUST-021,Customer 021,Consumer,United States,New York,Arizona,71686,East,PROD-0021,Furniture,Tables,Product 021,745.87,7,0.21,251.22,2016-10
+CA-2016-0022,2016-10-13,2016-01-03,Standard Class,CUST-022,Customer 022,Consumer,United States,Houston,California,71014,South,PROD-0022,Technology,Binders,Product 022,459.15,8,0.04,98.48,2016-10
+CA-2016-0023,2016-07-31,2016-01-05,Standard Class,CUST-023,Customer 023,Consumer,United States,Houston,Texas,93414,South,PROD-0023,Furniture,Chairs,Product 023,979.63,2,0.11,81.59,2016-07
+CA-2016-0024,2016-03-09,2016-01-05,Standard Class,CUST-024,Customer 024,Home Office,United States,Chicago,Illinois,87755,Central,PROD-0024,Furniture,Bookcases,Product 024,442.84,3,0.22,-48.48,2016-03
+CA-2016-0025,2016-01-28,2016-01-06,Second Class,CUST-025,Customer 025,Corporate,United States,Los Angeles,Texas,67487,West,PROD-0025,Furniture,Binders,Product 025,350.94,5,0.22,-8.78,2016-01
+CA-2016-0026,2016-08-14,2016-01-02,Second Class,CUST-026,Customer 026,Corporate,United States,New York,New York,69065,East,PROD-0026,Office Supplies,Phones,Product 026,640.99,5,0.09,199.27,2016-08
+CA-2016-0027,2016-07-09,2016-01-06,Second Class,CUST-027,Customer 027,Home Office,United States,New York,Illinois,47736,East,PROD-0027,Furniture,Binders,Product 027,822.91,5,0.11,171.62,2016-07
+CA-2016-0028,2016-10-11,2016-01-06,First Class,CUST-028,Customer 028,Home Office,United States,Houston,Texas,42556,South,PROD-0028,Furniture,Phones,Product 028,497.74,7,0.39,289.16,2016-10
+CA-2016-0029,2016-06-15,2016-01-03,Standard Class,CUST-029,Customer 029,Corporate,United States,Los Angeles,California,95612,South,PROD-0029,Office Supplies,Chairs,Product 029,263.25,5,0.31,295.09,2016-06
+CA-2016-0030,2016-12-08,2016-01-06,Standard Class,CUST-030,Customer 030,Consumer,United States,New York,Illinois,74727,South,PROD-0030,Furniture,Bookcases,Product 030,572.37,4,0.46,163.77,2016-12
+CA-2016-0031,2016-04-16,2016-01-05,Second Class,CUST-031,Customer 031,Home Office,United States,New York,Texas,46398,West,PROD-0031,Office Supplies,Bookcases,Product 031,433.14,8,0.15,36.41,2016-04
+CA-2016-0032,2016-11-20,2016-01-06,First Class,CUST-032,Customer 032,Consumer,United States,Houston,Texas,27282,Central,PROD-0032,Technology,Tables,Product 032,588.53,1,0.43,163.39,2016-11
+CA-2016-0033,2016-09-04,2016-01-03,Same Day,CUST-033,Customer 033,Consumer,United States,Los Angeles,Arizona,38038,East,PROD-0033,Furniture,Tables,Product 033,948.22,6,0.44,289.16,2016-09
+CA-2016-0034,2016-06-15,2016-01-05,First Class,CUST-034,Customer 034,Corporate,United States,Chicago,Arizona,48893,South,PROD-0034,Furniture,Art,Product 034,806.85,9,0.25,148.61,2016-06
+CA-2016-0035,2016-12-12,2016-01-03,Standard Class,CUST-035,Customer 035,Home Office,United States,Los Angeles,Texas,83724,East,PROD-0035,Office Supplies,Art,Product 035,282.3,8,0.35,-9.14,2016-12
+CA-2016-0036,2016-01-03,2016-01-02,Standard Class,CUST-036,Customer 036,Corporate,United States,Los Angeles,New York,36290,East,PROD-0036,Office Supplies,Binders,Product 036,358.48,4,0.11,111.34,2016-01
+CA-2016-0037,2016-04-11,2016-01-05,Same Day,CUST-037,Customer 037,Consumer,United States,Phoenix,Arizona,50759,West,PROD-0037,Technology,Bookcases,Product 037,908.66,8,0.12,105.77,2016-04
+CA-2016-0038,2016-11-29,2016-01-03,First Class,CUST-038,Customer 038,Home Office,United States,Phoenix,Illinois,10193,South,PROD-0038,Furniture,Bookcases,Product 038,129.48,8,0.16,7.56,2016-11
+CA-2016-0039,2016-10-10,2016-01-02,First Class,CUST-039,Customer 039,Corporate,United States,Phoenix,Illinois,37765,Central,PROD-0039,Technology,Binders,Product 039,881.35,7,0.22,129.49,2016-10
+CA-2016-0040,2016-09-23,2016-01-04,Standard Class,CUST-040,Customer 040,Consumer,United States,Phoenix,California,56866,Central,PROD-0040,Furniture,Bookcases,Product 040,617.46,4,0.3,-34.45,2016-09
+CA-2016-0041,2016-04-30,2016-01-05,Second Class,CUST-041,Customer 041,Corporate,United States,Chicago,New York,89868,Central,PROD-0041,Furniture,Art,Product 041,543.17,8,0.0,41.01,2016-04
+CA-2016-0042,2016-04-19,2016-01-05,Standard Class,CUST-042,Customer 042,Consumer,United States,Chicago,California,98872,Central,PROD-0042,Office Supplies,Phones,Product 042,171.77,1,0.38,44.22,2016-04
+CA-2016-0043,2016-11-22,2016-01-06,Standard Class,CUST-043,Customer 043,Corporate,United States,Chicago,Texas,12647,West,PROD-0043,Furniture,Bookcases,Product 043,22.27,10,0.29,200.04,2016-11
+CA-2016-0044,2016-04-05,2016-01-03,First Class,CUST-044,Customer 044,Corporate,United States,Chicago,California,33185,Central,PROD-0044,Furniture,Tables,Product 044,335.75,7,0.3,72.55,2016-04
+CA-2016-0045,2016-04-11,2016-01-02,Second Class,CUST-045,Customer 045,Consumer,United States,Houston,New York,10564,South,PROD-0045,Technology,Binders,Product 045,346.04,2,0.13,115.82,2016-04
+CA-2016-0046,2016-07-27,2016-01-04,Second Class,CUST-046,Customer 046,Consumer,United States,Houston,Illinois,65494,Central,PROD-0046,Technology,Tables,Product 046,203.16,6,0.47,11.04,2016-07
+CA-2016-0047,2016-11-14,2016-01-04,First Class,CUST-047,Customer 047,Corporate,United States,Los Angeles,Illinois,13800,East,PROD-0047,Technology,Binders,Product 047,705.04,5,0.21,200.25,2016-11
+CA-2016-0048,2016-03-15,2016-01-06,First Class,CUST-048,Customer 048,Home Office,United States,Houston,Illinois,91634,South,PROD-0048,Technology,Phones,Product 048,724.43,7,0.27,99.54,2016-03
+CA-2016-0049,2016-06-16,2016-01-06,Same Day,CUST-049,Customer 049,Corporate,United States,Houston,California,48794,West,PROD-0049,Furniture,Tables,Product 049,209.6,2,0.38,194.21,2016-06
+CA-2016-0050,2016-02-07,2016-01-02,Same Day,CUST-050,Customer 050,Consumer,United States,Phoenix,Arizona,68254,East,PROD-0050,Furniture,Art,Product 050,508.28,10,0.26,101.89,2016-02
+CA-2016-0051,2016-04-17,2016-01-05,Standard Class,CUST-051,Customer 051,Home Office,United States,Phoenix,Arizona,78025,Central,PROD-0051,Furniture,Bookcases,Product 051,267.58,6,0.4,90.12,2016-04
+CA-2016-0052,2016-11-08,2016-01-02,Second Class,CUST-052,Customer 052,Corporate,United States,Chicago,Texas,89034,Central,PROD-0052,Furniture,Tables,Product 052,124.17,3,0.24,29.4,2016-11
+CA-2016-0053,2016-07-12,2016-01-03,First Class,CUST-053,Customer 053,Home Office,United States,Phoenix,California,85115,Central,PROD-0053,Office Supplies,Tables,Product 053,48.08,1,0.26,82.86,2016-07
+CA-2016-0054,2016-11-09,2016-01-04,Standard Class,CUST-054,Customer 054,Consumer,United States,Houston,Arizona,77061,South,PROD-0054,Technology,Art,Product 054,179.56,9,0.28,47.73,2016-11
+CA-2016-0055,2016-11-29,2016-01-05,Second Class,CUST-055,Customer 055,Home Office,United States,Houston,Texas,79997,South,PROD-0055,Technology,Tables,Product 055,969.49,7,0.18,73.44,2016-11
+CA-2016-0056,2016-10-14,2016-01-03,First Class,CUST-056,Customer 056,Corporate,United States,Houston,Illinois,89427,South,PROD-0056,Technology,Art,Product 056,295.29,5,0.45,-9.9,2016-10
+CA-2016-0057,2016-03-14,2016-01-02,Second Class,CUST-057,Customer 057,Home Office,United States,Houston,Texas,66971,West,PROD-0057,Furniture,Phones,Product 057,907.77,6,0.29,5.93,2016-03
+CA-2016-0058,2016-06-19,2016-01-02,First Class,CUST-058,Customer 058,Corporate,United States,Los Angeles,California,88291,West,PROD-0058,Technology,Bookcases,Product 058,48.7,2,0.4,259.62,2016-06
+CA-2016-0059,2016-09-07,2016-01-06,Same Day,CUST-059,Customer 059,Corporate,United States,Chicago,New York,15174,Central,PROD-0059,Office Supplies,Phones,Product 059,643.65,6,0.26,250.04,2016-09
+CA-2016-0060,2016-12-11,2016-01-02,Standard Class,CUST-060,Customer 060,Corporate,United States,Chicago,New York,73907,West,PROD-0060,Technology,Art,Product 060,833.47,1,0.33,290.46,2016-12
+CA-2016-0061,2016-02-27,2016-01-06,Same Day,CUST-061,Customer 061,Home Office,United States,Los Angeles,New York,66312,East,PROD-0061,Office Supplies,Binders,Product 061,658.92,5,0.33,108.57,2016-02
+CA-2016-0062,2016-01-01,2016-01-03,Same Day,CUST-062,Customer 062,Home Office,United States,Chicago,Texas,61451,East,PROD-0062,Furniture,Binders,Product 062,166.41,4,0.48,144.12,2016-01
+CA-2016-0063,2016-06-30,2016-01-03,Same Day,CUST-063,Customer 063,Consumer,United States,Phoenix,Arizona,59743,Central,PROD-0063,Office Supplies,Binders,Product 063,410.8,5,0.35,38.85,2016-06
+CA-2016-0064,2016-01-16,2016-01-06,Standard Class,CUST-064,Customer 064,Home Office,United States,Houston,California,64192,East,PROD-0064,Furniture,Chairs,Product 064,996.92,4,0.2,144.66,2016-01
+CA-2016-0065,2016-03-13,2016-01-05,Second Class,CUST-065,Customer 065,Consumer,United States,Houston,Illinois,91678,South,PROD-0065,Office Supplies,Phones,Product 065,272.32,1,0.47,-18.13,2016-03
+CA-2016-0066,2016-12-16,2016-01-03,First Class,CUST-066,Customer 066,Home Office,United States,Phoenix,Arizona,27086,West,PROD-0066,Technology,Binders,Product 066,818.55,5,0.26,-34.43,2016-12
+CA-2016-0067,2016-04-05,2016-01-05,Same Day,CUST-067,Customer 067,Home Office,United States,Chicago,Illinois,13227,West,PROD-0067,Furniture,Bookcases,Product 067,600.48,10,0.49,217.32,2016-04
+CA-2016-0068,2016-10-18,2016-01-04,First Class,CUST-068,Customer 068,Consumer,United States,Los Angeles,California,50854,East,PROD-0068,Furniture,Chairs,Product 068,491.98,7,0.12,-0.03,2016-10
+CA-2016-0069,2016-04-10,2016-01-04,Same Day,CUST-069,Customer 069,Corporate,United States,New York,Arizona,59063,Central,PROD-0069,Office Supplies,Bookcases,Product 069,405.25,7,0.35,168.16,2016-04
+CA-2016-0070,2016-06-24,2016-01-05,Second Class,CUST-070,Customer 070,Consumer,United States,New York,Illinois,95785,West,PROD-0070,Furniture,Binders,Product 070,23.65,3,0.4,143.16,2016-06
+CA-2016-0071,2016-04-09,2016-01-04,Second Class,CUST-071,Customer 071,Home Office,United States,Los Angeles,Illinois,21822,South,PROD-0071,Office Supplies,Art,Product 071,526.4,5,0.17,189.63,2016-04
+CA-2016-0072,2016-07-21,2016-01-02,Same Day,CUST-072,Customer 072,Home Office,United States,Houston,Illinois,85924,South,PROD-0072,Technology,Chairs,Product 072,896.93,8,0.11,229.52,2016-07
+CA-2016-0073,2016-04-08,2016-01-06,Second Class,CUST-073,Customer 073,Consumer,United States,New York,California,27215,South,PROD-0073,Office Supplies,Chairs,Product 073,773.69,4,0.18,265.34,2016-04
+CA-2016-0074,2016-12-06,2016-01-02,Same Day,CUST-074,Customer 074,Home Office,United States,Chicago,Illinois,22120,East,PROD-0074,Furniture,Bookcases,Product 074,639.09,7,0.07,101.07,2016-12
+CA-2016-0075,2016-04-18,2016-01-04,Same Day,CUST-075,Customer 075,Home Office,United States,Houston,Texas,80314,South,PROD-0075,Office Supplies,Binders,Product 075,464.75,5,0.37,279.47,2016-04
+CA-2016-0076,2016-01-21,2016-01-05,Standard Class,CUST-076,Customer 076,Corporate,United States,Chicago,Texas,94675,West,PROD-0076,Furniture,Art,Product 076,105.76,6,0.03,39.25,2016-01
+CA-2016-0077,2016-02-17,2016-01-03,Standard Class,CUST-077,Customer 077,Home Office,United States,New York,New York,80169,South,PROD-0077,Furniture,Bookcases,Product 077,479.96,8,0.32,2.57,2016-02
+CA-2016-0078,2016-08-08,2016-01-06,Standard Class,CUST-078,Customer 078,Home Office,United States,Los Angeles,Texas,84689,South,PROD-0078,Technology,Art,Product 078,737.17,4,0.32,120.16,2016-08
+CA-2016-0079,2016-02-20,2016-01-04,First Class,CUST-079,Customer 079,Home Office,United States,Houston,New York,66278,West,PROD-0079,Office Supplies,Binders,Product 079,847.96,3,0.08,171.52,2016-02
+CA-2016-0080,2016-02-25,2016-01-02,Standard Class,CUST-080,Customer 080,Corporate,United States,New York,Illinois,99207,South,PROD-0080,Furniture,Phones,Product 080,186.35,8,0.43,98.37,2016-02
+CA-2016-0081,2016-02-22,2016-01-04,First Class,CUST-081,Customer 081,Home Office,United States,Chicago,Texas,25405,South,PROD-0081,Furniture,Art,Product 081,113.96,1,0.35,287.38,2016-02
+CA-2016-0082,2016-09-26,2016-01-06,Standard Class,CUST-082,Customer 082,Consumer,United States,New York,Illinois,90624,East,PROD-0082,Technology,Art,Product 082,521.86,6,0.27,144.58,2016-09
+CA-2016-0083,2016-08-19,2016-01-02,Same Day,CUST-083,Customer 083,Home Office,United States,New York,Texas,40421,West,PROD-0083,Office Supplies,Bookcases,Product 083,73.97,7,0.12,185.35,2016-08
+CA-2016-0084,2016-06-27,2016-01-02,Second Class,CUST-084,Customer 084,Corporate,United States,Chicago,California,43434,South,PROD-0084,Furniture,Binders,Product 084,387.16,6,0.46,292.35,2016-06
+CA-2016-0085,2016-03-28,2016-01-06,Standard Class,CUST-085,Customer 085,Home Office,United States,New York,Texas,85800,Central,PROD-0085,Furniture,Bookcases,Product 085,757.66,9,0.27,199.25,2016-03
+CA-2016-0086,2016-10-01,2016-01-04,Standard Class,CUST-086,Customer 086,Corporate,United States,New York,New York,78217,Central,PROD-0086,Furniture,Phones,Product 086,101.41,1,0.38,-40.3,2016-10
+CA-2016-0087,2016-12-06,2016-01-06,First Class,CUST-087,Customer 087,Consumer,United States,Los Angeles,Texas,68346,Central,PROD-0087,Office Supplies,Binders,Product 087,362.86,1,0.17,100.02,2016-12
+CA-2016-0088,2016-12-30,2016-01-04,Second Class,CUST-088,Customer 088,Corporate,United States,Houston,Illinois,17442,South,PROD-0088,Office Supplies,Phones,Product 088,475.26,9,0.12,89.18,2016-12
+CA-2016-0089,2016-06-01,2016-01-02,Standard Class,CUST-089,Customer 089,Corporate,United States,Phoenix,Texas,52762,South,PROD-0089,Technology,Art,Product 089,801.27,10,0.36,108.06,2016-06
+CA-2016-0090,2016-04-26,2016-01-05,Standard Class,CUST-090,Customer 090,Home Office,United States,Chicago,Arizona,54594,East,PROD-0090,Technology,Phones,Product 090,121.15,3,0.41,53.71,2016-04
+CA-2016-0091,2016-11-03,2016-01-04,First Class,CUST-091,Customer 091,Home Office,United States,New York,New York,53270,Central,PROD-0091,Furniture,Bookcases,Product 091,907.71,10,0.16,219.66,2016-11
+CA-2016-0092,2016-09-14,2016-01-02,Second Class,CUST-092,Customer 092,Corporate,United States,New York,Illinois,74905,Central,PROD-0092,Office Supplies,Binders,Product 092,735.5,10,0.24,91.12,2016-09
+CA-2016-0093,2016-04-08,2016-01-06,Standard Class,CUST-093,Customer 093,Home Office,United States,Houston,New York,32228,West,PROD-0093,Technology,Phones,Product 093,241.67,8,0.5,272.6,2016-04
+CA-2016-0094,2016-03-06,2016-01-05,Standard Class,CUST-094,Customer 094,Consumer,United States,Los Angeles,Illinois,57946,East,PROD-0094,Furniture,Art,Product 094,346.41,4,0.35,242.57,2016-03
+CA-2016-0095,2016-09-15,2016-01-05,Same Day,CUST-095,Customer 095,Home Office,United States,Houston,Arizona,74486,West,PROD-0095,Furniture,Binders,Product 095,751.69,4,0.33,246.12,2016-09
+CA-2016-0096,2016-11-26,2016-01-05,Standard Class,CUST-096,Customer 096,Home Office,United States,Los Angeles,California,54905,South,PROD-0096,Furniture,Binders,Product 096,638.52,3,0.44,-8.3,2016-11
+CA-2016-0097,2016-03-22,2016-01-02,Same Day,CUST-097,Customer 097,Home Office,United States,Houston,Texas,85549,West,PROD-0097,Furniture,Binders,Product 097,946.58,9,0.5,97.29,2016-03
+CA-2016-0098,2016-12-17,2016-01-06,Standard Class,CUST-098,Customer 098,Corporate,United States,Chicago,New York,27942,East,PROD-0098,Furniture,Tables,Product 098,80.45,6,0.11,209.02,2016-12
+CA-2016-0099,2016-04-26,2016-01-05,Second Class,CUST-099,Customer 099,Corporate,United States,New York,California,26856,West,PROD-0099,Technology,Phones,Product 099,492.25,5,0.28,174.56,2016-04
+CA-2016-0100,2016-09-25,2016-01-05,First Class,CUST-100,Customer 100,Corporate,United States,Houston,New York,77060,East,PROD-0100,Technology,Tables,Product 100,836.45,9,0.37,26.79,2016-09
